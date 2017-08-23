@@ -65,7 +65,6 @@ public class BaseActivity extends AppCompatActivity implements View.OnClickListe
 
     public void ButoomChnager(Fragment fr)
     {
-
         LL_Account.setBackgroundColor(Color.WHITE);
         LL_Budget.setBackgroundColor(Color.WHITE);
         LL_Reward.setBackgroundColor(Color.WHITE);
